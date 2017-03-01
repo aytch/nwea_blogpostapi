@@ -8,3 +8,4 @@ Requirements:
   Gems:
     'json'
     'sinatra'
+    'sqlite3'
