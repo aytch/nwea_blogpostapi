@@ -15,7 +15,7 @@ Code sample exercise.
 
 Clone this repository:
 ```bash
-$ https://github.com/aytch/nwea_blogpostapi.git
+$ git clone https://github.com/aytch/nwea_blogpostapi.git
 ```
 
 Ensure you have an installed Ruby that meets the minimum requirements:
